@@ -31,6 +31,12 @@ about me
    - 내용: 반도체 공정 데이터(웨이퍼, 디바이스 불량률) 분석 및 예측 모델 개발  
    - 주요 성과: 데이터 정확도(90% → 95% 향상)
 
+3. **데이터 분석 스터디**  
+   - 기간: 2024.11 ~ 2025.01  
+   - 사용 기술: Python, Pandas, Genetic Algorithm, Google Ortools  
+   - 내용: Kaggle - Regression, Dacon - CVRP, Regression  
+   - 주요 성과: Kaggle 상위 10%, Dacon 4위 (CVRP)
+     
 ## 📬 Contact
 
 - **Email**: chicass@naver.com
