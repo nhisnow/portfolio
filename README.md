@@ -10,8 +10,9 @@ about me
 ## ⚙️ Skills
 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 - **Language**: C/C++, Java, Python
 - **Framework**: Tensorflow, Pytorch, etc.
